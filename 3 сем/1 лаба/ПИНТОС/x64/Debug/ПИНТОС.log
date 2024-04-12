@@ -1,0 +1,5 @@
+﻿  timer.c
+C:\Users\Карина\Desktop\pintos\src\devices\timer.c(1,10): fatal  error C1083: Не удается открыть файл включение: devices/timer.h: No such file or directory,
+  thread.c
+C:\Users\Карина\Desktop\pintos\src\threads\thread.c(1,10): fatal  error C1083: Не удается открыть файл включение: threads/thread.h: No such file or directory,
+  Создание кода...
